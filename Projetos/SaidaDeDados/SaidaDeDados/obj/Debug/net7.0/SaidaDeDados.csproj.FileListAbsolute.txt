@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.exe
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.deps.json
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.runtimeconfig.json
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.dll
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.pdb
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.dll
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\refint\SaidaDeDados.dll
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.pdb
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\ref\SaidaDeDados.dll

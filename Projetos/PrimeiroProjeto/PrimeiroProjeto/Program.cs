@@ -1,10 +1,13 @@
-﻿namespace MyApp // Note: actual namespace depends on the project name.
-{
+﻿namespace MyApp {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.Write("Hello World!");
+            Console.WriteLine("Bom dia!");
+
+            Console.ReadLine();
         }
     }
 }

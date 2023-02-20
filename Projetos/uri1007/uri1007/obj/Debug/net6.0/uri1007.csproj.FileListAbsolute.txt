@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\uri1007\uri1007\bin\Debug\net6.0\uri1007.exe
+C:\workspace\cSharp\Projetos\uri1007\uri1007\bin\Debug\net6.0\uri1007.deps.json
+C:\workspace\cSharp\Projetos\uri1007\uri1007\bin\Debug\net6.0\uri1007.runtimeconfig.json
+C:\workspace\cSharp\Projetos\uri1007\uri1007\bin\Debug\net6.0\uri1007.dll
+C:\workspace\cSharp\Projetos\uri1007\uri1007\bin\Debug\net6.0\uri1007.pdb
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.dll
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\refint\uri1007.dll
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.pdb
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\uri1007.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\uri1007\uri1007\obj\Debug\net6.0\ref\uri1007.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.exe
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.deps.json
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.runtimeconfig.json
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.dll
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.pdb
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.dll
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\refint\FuncoesMatematicas.dll
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.pdb
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\ref\FuncoesMatematicas.dll

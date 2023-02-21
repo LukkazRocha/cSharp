@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\net6.0\ExercicioResolvido04.exe
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\net6.0\ExercicioResolvido04.deps.json
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\net6.0\ExercicioResolvido04.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\net6.0\ExercicioResolvido04.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\net6.0\ExercicioResolvido04.pdb
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\refint\ExercicioResolvido04.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.pdb
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ExercicioResolvido04.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\net6.0\ref\ExercicioResolvido04.dll

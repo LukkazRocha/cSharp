@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net7.0\ExercicioResolvido07.exe
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net7.0\ExercicioResolvido07.deps.json
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net7.0\ExercicioResolvido07.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net7.0\ExercicioResolvido07.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net7.0\ExercicioResolvido07.pdb
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\refint\ExercicioResolvido07.dll
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.pdb
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ExercicioResolvido07.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net7.0\ref\ExercicioResolvido07.dll

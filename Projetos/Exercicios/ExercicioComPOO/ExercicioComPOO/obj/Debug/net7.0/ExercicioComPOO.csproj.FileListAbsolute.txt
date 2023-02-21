@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\bin\Debug\net7.0\ExercicioComPOO.exe
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\bin\Debug\net7.0\ExercicioComPOO.deps.json
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\bin\Debug\net7.0\ExercicioComPOO.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\bin\Debug\net7.0\ExercicioComPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\bin\Debug\net7.0\ExercicioComPOO.pdb
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\refint\ExercicioComPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.pdb
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ExercicioComPOO.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExercicioComPOO\ExercicioComPOO\obj\Debug\net7.0\ref\ExercicioComPOO.dll

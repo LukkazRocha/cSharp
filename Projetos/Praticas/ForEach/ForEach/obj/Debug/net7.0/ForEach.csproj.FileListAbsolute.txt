@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ForEach\ForEach\bin\Debug\net7.0\ForEach.exe
+C:\workspace\cSharp\Projetos\ForEach\ForEach\bin\Debug\net7.0\ForEach.deps.json
+C:\workspace\cSharp\Projetos\ForEach\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ForEach\ForEach\bin\Debug\net7.0\ForEach.dll
+C:\workspace\cSharp\Projetos\ForEach\ForEach\bin\Debug\net7.0\ForEach.pdb
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.dll
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.pdb
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ForEach\ForEach\obj\Debug\net7.0\ref\ForEach.dll

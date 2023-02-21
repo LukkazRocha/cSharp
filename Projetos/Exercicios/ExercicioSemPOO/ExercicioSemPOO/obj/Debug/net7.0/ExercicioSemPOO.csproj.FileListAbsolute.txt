@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\bin\Debug\net7.0\ExercicioSemPOO.exe
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\bin\Debug\net7.0\ExercicioSemPOO.deps.json
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\bin\Debug\net7.0\ExercicioSemPOO.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\bin\Debug\net7.0\ExercicioSemPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\bin\Debug\net7.0\ExercicioSemPOO.pdb
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\refint\ExercicioSemPOO.dll
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.pdb
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ExercicioSemPOO.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExercicioSemPOO\ExercicioSemPOO\obj\Debug\net7.0\ref\ExercicioSemPOO.dll

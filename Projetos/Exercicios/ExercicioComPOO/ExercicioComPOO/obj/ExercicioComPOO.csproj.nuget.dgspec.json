@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\cSharp\\Projetos\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj": {}
+    "C:\\workspace\\cSharp\\Projetos\\Exercicios\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\cSharp\\Projetos\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj": {
+    "C:\\workspace\\cSharp\\Projetos\\Exercicios\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\cSharp\\Projetos\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj",
+        "projectUniqueName": "C:\\workspace\\cSharp\\Projetos\\Exercicios\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj",
         "projectName": "ExercicioComPOO",
-        "projectPath": "C:\\workspace\\cSharp\\Projetos\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj",
+        "projectPath": "C:\\workspace\\cSharp\\Projetos\\Exercicios\\ExercicioComPOO\\ExercicioComPOO\\ExercicioComPOO.csproj",
         "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\cSharp\\Projetos\\ExercicioComPOO\\ExercicioComPOO\\obj\\",
+        "outputPath": "C:\\workspace\\cSharp\\Projetos\\Exercicios\\ExercicioComPOO\\ExercicioComPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

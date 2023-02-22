@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\bin\Debug\net7.0\ProblemaProduto.exe
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\bin\Debug\net7.0\ProblemaProduto.deps.json
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\bin\Debug\net7.0\ProblemaProduto.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\bin\Debug\net7.0\ProblemaProduto.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\bin\Debug\net7.0\ProblemaProduto.pdb
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\refint\ProblemaProduto.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.pdb
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ProblemaProduto.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaProduto\ProblemaProduto\obj\Debug\net7.0\ref\ProblemaProduto.dll

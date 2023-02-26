@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\bin\Debug\net7.0\ExercicioPOO07.exe
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\bin\Debug\net7.0\ExercicioPOO07.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\bin\Debug\net7.0\ExercicioPOO07.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\bin\Debug\net7.0\ExercicioPOO07.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\bin\Debug\net7.0\ExercicioPOO07.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\refint\ExercicioPOO07.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ExercicioPOO07.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO07\ExercicioPOO07\obj\Debug\net7.0\ref\ExercicioPOO07.dll

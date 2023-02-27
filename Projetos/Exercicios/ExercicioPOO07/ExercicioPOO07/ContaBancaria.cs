@@ -1,27 +1,27 @@
 ﻿using System.Globalization;
 
 namespace ExercicioPOO07 {
-    internal class Conta {
+    internal class ContaBancaria {
 
         public int NumeroDaConta { get; private set; }
         public string Titular { get; set; }
-        public double Saldo { get; private set; }
+        public double Saldo { get; set; }
 
-        public Conta(int numero, string titular) {
+        public ContaBancaria(int numero, string titular) {
             NumeroDaConta = numero;
             Titular = titular;
         }
 
-        public Conta(int numero, string titular, double saldo): this(numero, titular) {
-            Saldo = saldo;
+        public ContaBancaria(int numero, string titular, double saldo) : this (numero, titular) {
+            Depositar(saldo);
         }
 
-        public void Depositar(double valor) {
-            Saldo += valor;
+        public void Depositar(double quanti) {
+            Saldo += quanti;
         }
 
-        public void Sacar(double valor) {
-            Saldo = (Saldo - valor) - 5.0;
+        public void Sacar(double quanti) {
+            Saldo -= quanti + 5.0;
         }
 
         public override string ToString() {

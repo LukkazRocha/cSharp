@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\bin\Debug\net7.0\ReferenciaValor.exe
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\bin\Debug\net7.0\ReferenciaValor.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\bin\Debug\net7.0\ReferenciaValor.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\bin\Debug\net7.0\ReferenciaValor.dll
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\bin\Debug\net7.0\ReferenciaValor.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.dll
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\refint\ReferenciaValor.dll
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ReferenciaValor.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ReferenciaValor\ReferenciaValor\obj\Debug\net7.0\ref\ReferenciaValor.dll

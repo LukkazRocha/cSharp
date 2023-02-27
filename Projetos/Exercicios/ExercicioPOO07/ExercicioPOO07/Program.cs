@@ -6,40 +6,40 @@ namespace ExercicioPOO07 // Note: actual namespace depends on the project name.
     internal class Program {
         static void Main(string[] args) {
 
-            Conta c;
+            ContaBancaria conta;
+            double quanti;
 
             Console.Write("Entre o número da conta: ");
-            int numeroConta = int.Parse(Console.ReadLine());
-            Console.Write("Entre o títular da conta: ");
+            int numero = int.Parse(Console.ReadLine());
+            Console.Write("Entre o titular da conta: ");
             string titular = Console.ReadLine();
-            Console.Write("Haverá depósito inicial (s/n) ");
+            Console.Write("Haverá depósito inicial (s/n)? ");
             char resp = char.Parse(Console.ReadLine());
-
-            if (resp == 's') {
+            if (resp == 's' || resp == 'S') {
                 Console.Write("Entre o valor de depósito inicial: ");
-                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                c = new Conta(numeroConta, titular, depositoInicial);                
-            } else {                
-                c = new Conta(numeroConta, titular);                
+                double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                conta = new ContaBancaria(numero, titular, deposito);
+            } else {
+                conta = new ContaBancaria(numero, titular);
             }
 
             Console.WriteLine();
-            Console.WriteLine("Dados da conta: ");
-            Console.WriteLine(c);
+            Console.WriteLine("Dados da conta:");
+            Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre um valor para depósito: ");
-            double valorDeposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            c.Depositar(valorDeposito);
+            quanti = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Depositar(quanti);
             Console.WriteLine("Dados da conta atualizados:");
-            Console.WriteLine(c);
+            Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre um valor para saque: ");
-            double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            c.Sacar(saque);
+            quanti = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Sacar(quanti);
             Console.WriteLine("Dados da conta atualizados:");
-            Console.WriteLine(c);            
+            Console.WriteLine(conta);
         }
     }
 }

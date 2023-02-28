@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\net7.0\ProblemaExemplo2.exe
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\net7.0\ProblemaExemplo2.deps.json
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\net7.0\ProblemaExemplo2.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\net7.0\ProblemaExemplo2.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\net7.0\ProblemaExemplo2.pdb
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\refint\ProblemaExemplo2.dll
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.pdb
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ProblemaExemplo2.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\net7.0\ref\ProblemaExemplo2.dll

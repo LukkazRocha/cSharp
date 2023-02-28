@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\bin\Debug\net7.0\ExercicioResolvido11.exe
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\bin\Debug\net7.0\ExercicioResolvido11.deps.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\bin\Debug\net7.0\ExercicioResolvido11.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\bin\Debug\net7.0\ExercicioResolvido11.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\bin\Debug\net7.0\ExercicioResolvido11.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\refint\ExercicioResolvido11.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ExercicioResolvido11.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido11\ExercicioPOO08\obj\Debug\net7.0\ref\ExercicioResolvido11.dll

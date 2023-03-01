@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll

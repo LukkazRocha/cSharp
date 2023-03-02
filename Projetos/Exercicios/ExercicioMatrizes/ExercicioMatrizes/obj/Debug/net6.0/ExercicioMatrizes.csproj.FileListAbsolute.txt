@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.exe
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\refint\ExercicioMatrizes.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ref\ExercicioMatrizes.dll

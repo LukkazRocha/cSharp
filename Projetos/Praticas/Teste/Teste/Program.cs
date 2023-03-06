@@ -1,15 +1,17 @@
 ﻿using System;
 using System.Globalization;
+using Teste.Entities.Enum;
 
 namespace Teste // Note: actual namespace depends on the project name.
 {
-    internal class Program {
-        static void Main(string[] args) {
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
 
-            TimeSpan t1 = new TimeSpan();
 
-            Console.WriteLine(t1);
-            
+            string diaDaSemanaStr = "Segunda";
+            DiasDaSemana diaDaSemana = (DiasDaSemana)Enum.Parse(typeof(DiasDaSemana), diaDaSemanaStr);
 
         }
     }

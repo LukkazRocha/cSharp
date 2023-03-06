@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\bin\Debug\net7.0\EnumExemple.exe
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\bin\Debug\net7.0\EnumExemple.deps.json
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\bin\Debug\net7.0\EnumExemple.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\bin\Debug\net7.0\EnumExemple.dll
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\bin\Debug\net7.0\EnumExemple.pdb
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.dll
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\refint\EnumExemple.dll
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.pdb
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\EnumExemple.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\EnumExemple\EnumExemple\obj\Debug\net7.0\ref\EnumExemple.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\bin\Debug\net7.0\ExercicioResolvido13.exe
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\bin\Debug\net7.0\ExercicioResolvido13.deps.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\bin\Debug\net7.0\ExercicioResolvido13.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\bin\Debug\net7.0\ExercicioResolvido13.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\bin\Debug\net7.0\ExercicioResolvido13.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\refint\ExercicioResolvido13.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ExercicioResolvido13.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido13\ExercicioResolvido13\obj\Debug\net7.0\ref\ExercicioResolvido13.dll

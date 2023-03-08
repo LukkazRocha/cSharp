@@ -1,6 +1,5 @@
-﻿using System;
-using System.Globalization;
-using Teste.Entities.Enum;
+﻿using System.Globalization;
+using Teste.Entities;
 
 namespace Teste // Note: actual namespace depends on the project name.
 {
@@ -8,11 +7,11 @@ namespace Teste // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+            BusinessAccount account = new BusinessAccount(8010, "Bob Brown", 100.0, 500.0);
 
+            Console.WriteLine(account.Balance);
 
-            string diaDaSemanaStr = "Segunda";
-            DiasDaSemana diaDaSemana = (DiasDaSemana)Enum.Parse(typeof(DiasDaSemana), diaDaSemanaStr);
-
+            //account.Balance = 200;
         }
     }
 }

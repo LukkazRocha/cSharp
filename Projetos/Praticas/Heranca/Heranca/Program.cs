@@ -7,11 +7,14 @@ namespace Heranca // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            BusinessAccount account = new BusinessAccount(8010, "Bob Brown", 100.0, 500.0);
+            Account acc1 = new Account(1001, "Alex", 500.0);
+            Account acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
 
-            Console.WriteLine(account.Balance);
+            acc1.WithDraw(10.0);
+            acc2.WithDraw(10.0);
 
-            //account.Balance = 200.0;
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance);
         }
     }
 }

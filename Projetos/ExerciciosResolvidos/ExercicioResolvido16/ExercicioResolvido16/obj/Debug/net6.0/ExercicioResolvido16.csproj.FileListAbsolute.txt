@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\bin\Debug\net6.0\ExercicioResolvido16.exe
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\bin\Debug\net6.0\ExercicioResolvido16.deps.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\bin\Debug\net6.0\ExercicioResolvido16.runtimeconfig.json
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\bin\Debug\net6.0\ExercicioResolvido16.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\bin\Debug\net6.0\ExercicioResolvido16.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\refint\ExercicioResolvido16.dll
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.pdb
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ExercicioResolvido16.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\ExerciciosResolvidos\ExercicioResolvido16\ExercicioResolvido16\obj\Debug\net6.0\ref\ExercicioResolvido16.dll

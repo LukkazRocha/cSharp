@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.exe
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.dll
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.dll
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\TryCatch\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll

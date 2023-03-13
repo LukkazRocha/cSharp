@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\bin\Debug\net6.0\ExercicioPOO12.exe
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\bin\Debug\net6.0\ExercicioPOO12.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\bin\Debug\net6.0\ExercicioPOO12.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\bin\Debug\net6.0\ExercicioPOO12.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\bin\Debug\net6.0\ExercicioPOO12.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\refint\ExercicioPOO12.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ExercicioPOO12.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioPOO12\ExercicioPOO12\obj\Debug\net6.0\ref\ExercicioPOO12.dll

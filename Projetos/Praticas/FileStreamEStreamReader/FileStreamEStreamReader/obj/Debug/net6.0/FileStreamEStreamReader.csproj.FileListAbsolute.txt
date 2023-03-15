@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.exe
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.deps.json
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.dll
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.pdb
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.dll
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\refint\FileStreamEStreamReader.dll
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.pdb
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\ref\FileStreamEStreamReader.dll

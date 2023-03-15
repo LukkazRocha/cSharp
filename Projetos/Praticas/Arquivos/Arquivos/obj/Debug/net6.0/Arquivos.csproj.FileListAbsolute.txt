@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.exe
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.deps.json
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.dll
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.pdb
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.dll
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\refint\Arquivos.dll
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.pdb
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\Arquivos\Arquivos\obj\Debug\net6.0\ref\Arquivos.dll

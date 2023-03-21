@@ -15,36 +15,30 @@ namespace ExercicioPOO10 // Note: actual namespace depends on the project name.
             string email = Console.ReadLine();
             Console.Write("Birth date (DD/MM/YYYY): ");
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
-
-            Client client = new Client(name, email, birthDate);
-
             Console.WriteLine("Enter order data:");
-            DateTime moment = DateTime.Now;
             Console.Write("Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
+            DateTime moment = DateTime.Now;
 
-            Order order = new Order(moment, status, client);
+            Order order = new Order(moment, status, new Client(name, email, birthDate));
 
             Console.Write("How many items to this order? ");
             int n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Enter #{i} item data:");
+                Console.WriteLine($"Enter #{i} data:");
                 Console.Write("Product name: ");
-                string productName = Console.ReadLine();
+                string prodName = Console.ReadLine();
                 Console.Write("Product price: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
-                Product product = new Product(name, price);
-                OrderItem item = new OrderItem(quantity, price, product);
-                order.AddItem(item);
+                order.AddItem(new OrderItem(quantity, price, new Product(prodName, price)));
             }
 
             Console.WriteLine();
             Console.WriteLine("ORDER SUMMARY:");
             Console.WriteLine(order);
-
         }
     }
 }

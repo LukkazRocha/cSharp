@@ -1,14 +1,9 @@
-﻿using System.Globalization;
-
-namespace ExercicioPOO10.Entities
+﻿namespace ExercicioPOO10.Entities
 {
     internal class Product
     {
-
         public string Name { get; set; }
         public double Price { get; set; }
-
-        public Product() { }
 
         public Product(string name, double price)
         {

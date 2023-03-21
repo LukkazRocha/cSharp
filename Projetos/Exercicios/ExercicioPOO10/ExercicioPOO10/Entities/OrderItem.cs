@@ -4,12 +4,9 @@ namespace ExercicioPOO10.Entities
 {
     internal class OrderItem
     {
-
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product { get; set; }
-
-        public OrderItem() { }
 
         public OrderItem(int quantity, double price, Product product)
         {
@@ -20,14 +17,14 @@ namespace ExercicioPOO10.Entities
 
         public double SubTotal()
         {
-            return Quantity * Price;
+            return Price * Quantity;
         }
 
         public override string ToString()
         {
             return Product.Name
                 + ", $"
-                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + Product.Price.ToString("F2", CultureInfo.InvariantCulture)
                 + ", Quantity: "
                 + Quantity
                 + ", Subtotal: $"

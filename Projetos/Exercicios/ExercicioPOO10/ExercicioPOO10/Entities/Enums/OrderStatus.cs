@@ -1,6 +1,6 @@
 ﻿namespace ExercicioPOO10.Entities.Enums
 {
-    enum OrderStatus : int
+    enum OrderStatus
     {
         PendingPayment,
         Processing,

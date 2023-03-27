@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\bin\Debug\net6.0\InterfaceComAbstract.exe
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\bin\Debug\net6.0\InterfaceComAbstract.deps.json
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\bin\Debug\net6.0\InterfaceComAbstract.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\bin\Debug\net6.0\InterfaceComAbstract.dll
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\bin\Debug\net6.0\InterfaceComAbstract.pdb
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.dll
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\refint\InterfaceComAbstract.dll
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.pdb
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\InterfaceComAbstract.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\InterfaceComAbstract\InterfaceComAbstract\obj\Debug\net6.0\ref\InterfaceComAbstract.dll

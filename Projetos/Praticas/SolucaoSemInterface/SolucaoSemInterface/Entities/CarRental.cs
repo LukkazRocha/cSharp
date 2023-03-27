@@ -12,7 +12,6 @@
             Start = start;
             Finish = finish;
             Vehicle = vehicle;
-            Invoice = null;
         }
     }
 }

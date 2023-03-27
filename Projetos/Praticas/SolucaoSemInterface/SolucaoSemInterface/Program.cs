@@ -19,17 +19,16 @@ namespace SolucaoSemInterface // Note: actual namespace depends on the project n
             Console.Write("Enter price per hour: ");
             double hour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Enter price per day: ");
-            double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);            
+            double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
             Console.WriteLine("INVOICE:");
             Console.WriteLine(carRental.Invoice);
-
         }
     }
 }

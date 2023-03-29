@@ -2,14 +2,14 @@
 {
     internal class Printer : Device, IPrinter
     {
-        public override void ProcessDoc(string doc)
+        public override void ProcessDoc(string document)
         {
-            Console.WriteLine("Printer processing: " + doc);
+            Console.WriteLine("Printer processing: " + document);
         }
 
-        public void Print(string doc)
+        public void Print(string document)
         {
-            Console.WriteLine("Printer print " + doc);
+            Console.WriteLine("Printer print " + document);
         }
     }
 }

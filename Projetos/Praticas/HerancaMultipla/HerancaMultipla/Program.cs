@@ -1,5 +1,4 @@
 ﻿using HerancaMultipla.Devices;
-using System;
 
 namespace HerancaMultipla // Note: actual namespace depends on the project name.
 {

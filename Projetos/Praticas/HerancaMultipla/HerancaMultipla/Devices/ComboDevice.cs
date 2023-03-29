@@ -2,21 +2,19 @@
 {
     internal class ComboDevice : Device, IScanner, IPrinter
     {
-        public void Print(string doc)
+        public override void ProcessDoc(string document)
         {
-            Console.WriteLine("ComboDevice print " + doc);
+            Console.WriteLine("ComboDevice processing: " + document);
         }
 
-        public override void ProcessDoc(string doc)
+        public void Print(string document)
         {
-            Console.WriteLine("ComboDevice processing " + doc);
+            Console.WriteLine("ComboDevice print " + document);
         }
 
         public string Scan()
         {
-            return "ComboDevce scan result";
+            return "ComboDevice scan result";
         }
     }
 }
-
-

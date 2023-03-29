@@ -1,7 +1,7 @@
 ﻿namespace HerancaMultipla.Devices
 {
-    interface IScanner
+    internal interface IScanner
     {
-        public string Scan();
+        string Scan();
     }
 }

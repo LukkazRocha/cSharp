@@ -1,7 +1,7 @@
 ﻿namespace HerancaMultipla.Devices
 {
-    interface IPrinter
+    internal interface IPrinter
     {
-        public void Print(string doc);
+        void Print(string document);
     }
 }

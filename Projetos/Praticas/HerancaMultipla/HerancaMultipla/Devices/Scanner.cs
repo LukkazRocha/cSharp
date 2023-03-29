@@ -2,9 +2,9 @@
 {
     internal class Scanner : Device, IScanner
     {
-        public override void ProcessDoc(string doc)
+        public override void ProcessDoc(string document)
         {
-            Console.WriteLine("Scanner processing: " + doc);
+            Console.WriteLine("Scanner processing: " + document);
         }
 
         public string Scan()

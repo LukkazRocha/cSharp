@@ -4,6 +4,6 @@
     {
         public int SerialNumber { get; set; }
 
-        public abstract void ProcessDoc(string doc);
+        public abstract void ProcessDoc(string document);
     }
 }

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\bin\Debug\net6.0\GenericsPt2.exe
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\bin\Debug\net6.0\GenericsPt2.deps.json
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\bin\Debug\net6.0\GenericsPt2.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\bin\Debug\net6.0\GenericsPt2.dll
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\bin\Debug\net6.0\GenericsPt2.pdb
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.dll
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\refint\GenericsPt2.dll
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.pdb
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\GenericsPt2.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\GenericsPt2\GenericsPt2\obj\Debug\net6.0\ref\GenericsPt2.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.exe
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.deps.json
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.dll
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.pdb
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.dll
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\refint\GetHashCodeEquals.dll
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.pdb
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\ref\GetHashCodeEquals.dll

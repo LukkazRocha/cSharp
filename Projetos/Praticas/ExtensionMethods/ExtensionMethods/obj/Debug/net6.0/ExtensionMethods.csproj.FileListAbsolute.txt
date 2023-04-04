@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.exe
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\refint\ExercicioDictionary.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ref\ExercicioDictionary.dll

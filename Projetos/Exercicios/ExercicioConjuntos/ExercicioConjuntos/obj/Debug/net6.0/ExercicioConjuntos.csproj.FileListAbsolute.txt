@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.exe
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.deps.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\refint\ExercicioConjuntos.dll
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.pdb
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Exercicios\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ref\ExercicioConjuntos.dll

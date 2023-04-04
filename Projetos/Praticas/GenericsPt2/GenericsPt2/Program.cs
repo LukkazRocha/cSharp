@@ -1,9 +1,9 @@
-﻿using GenericsPt2.Services;
-using GenericsPt2.Entities;
+﻿using GenericsPt2.Entities;
+using GenericsPt2.Services;
 using System;
 using System.Globalization;
 
-namespace GenericsPt2 // Note: actual namespace depends on the project name.
+namespace GenericsPt2
 {
     internal class Program
     {
@@ -25,7 +25,8 @@ namespace GenericsPt2 // Note: actual namespace depends on the project name.
             CalculationService calculationService = new CalculationService();
 
             Product max = calculationService.Max(list);
-            Console.WriteLine("Max:");
+
+            Console.WriteLine("Most expensive:");
             Console.WriteLine(max);
         }
     }

@@ -4,7 +4,6 @@ namespace GenericsPt2.Entities
 {
     internal class Product : IComparable
     {
-
         public string Name { get; set; }
         public double Price { get; set; }
 
@@ -25,7 +24,7 @@ namespace GenericsPt2.Entities
         {
             if (!(obj is Product))
             {
-                throw new ArgumentException("Comparing error: argumento is not a Product");
+                throw new ArgumentException("Comparing error: Argument is not a product");
             }
             Product other = obj as Product;
             return Price.CompareTo(other.Price);

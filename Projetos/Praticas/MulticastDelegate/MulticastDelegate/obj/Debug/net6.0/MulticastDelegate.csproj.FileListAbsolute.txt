@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.exe
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.deps.json
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.dll
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.pdb
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.dll
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\refint\MulticastDelegate.dll
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.pdb
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\ref\MulticastDelegate.dll

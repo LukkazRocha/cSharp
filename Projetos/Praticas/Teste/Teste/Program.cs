@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Teste // Note: actual namespace depends on the project name.
+namespace Teste
 {
     internal class Program
     {

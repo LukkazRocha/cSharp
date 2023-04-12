@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\bin\Debug\net6.0\Func.exe
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\bin\Debug\net6.0\Func.deps.json
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\bin\Debug\net6.0\Func.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\bin\Debug\net6.0\Func.dll
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\bin\Debug\net6.0\Func.pdb
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.dll
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\refint\Func.dll
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.pdb
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\Func.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\Func\Func\obj\Debug\net6.0\ref\Func.dll

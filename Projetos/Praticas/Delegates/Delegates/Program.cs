@@ -6,7 +6,7 @@ namespace Delegates
     internal class Program
     {
 
-        delegate double BynaryNumericOperation(double n1, double n2);        
+        delegate double BynaryNumericOperation(double n1, double n2);
 
         static void Main(string[] args)
         {

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\bin\Debug\net6.0\Action.exe
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\bin\Debug\net6.0\Action.deps.json
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\bin\Debug\net6.0\Action.runtimeconfig.json
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\bin\Debug\net6.0\Action.dll
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\bin\Debug\net6.0\Action.pdb
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.AssemblyInfo.cs
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.dll
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\refint\Action.dll
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.pdb
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\Action.genruntimeconfig.cache
+C:\workspace\cSharp\Projetos\Praticas\Action\Action\obj\Debug\net6.0\ref\Action.dll

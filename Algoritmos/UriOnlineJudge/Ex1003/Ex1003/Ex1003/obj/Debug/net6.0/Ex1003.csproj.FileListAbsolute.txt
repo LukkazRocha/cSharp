@@ -1,0 +1,5 @@
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1003\Ex1003\Ex1003\obj\Debug\net6.0\Ex1003.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1003\Ex1003\Ex1003\obj\Debug\net6.0\Ex1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1003\Ex1003\Ex1003\obj\Debug\net6.0\Ex1003.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1003\Ex1003\Ex1003\obj\Debug\net6.0\Ex1003.AssemblyInfo.cs
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1003\Ex1003\Ex1003\obj\Debug\net6.0\Ex1003.csproj.CoreCompileInputs.cache

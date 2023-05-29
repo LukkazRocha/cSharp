@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\bin\Debug\net6.0\Terreno.exe
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\bin\Debug\net6.0\Terreno.deps.json
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\bin\Debug\net6.0\Terreno.runtimeconfig.json
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\bin\Debug\net6.0\Terreno.dll
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\bin\Debug\net6.0\Terreno.pdb
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfo.cs
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.dll
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\refint\Terreno.dll
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.pdb
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\Terreno.genruntimeconfig.cache
+C:\workspace\cSharp\Algoritmos\Aulas\Terreno\Terreno\obj\Debug\net6.0\ref\Terreno.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\bin\Debug\net6.0\Ex1001.exe
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\bin\Debug\net6.0\Ex1001.deps.json
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\bin\Debug\net6.0\Ex1001.runtimeconfig.json
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\bin\Debug\net6.0\Ex1001.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\bin\Debug\net6.0\Ex1001.pdb
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.AssemblyInfo.cs
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\refint\Ex1001.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.pdb
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\Ex1001.genruntimeconfig.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1001\Ex1001\obj\Debug\net6.0\ref\Ex1001.dll

@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\bin\Debug\net6.0\Exercicio03.exe
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\bin\Debug\net6.0\Exercicio03.deps.json
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\bin\Debug\net6.0\Exercicio03.runtimeconfig.json
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\bin\Debug\net6.0\Exercicio03.dll
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\bin\Debug\net6.0\Exercicio03.pdb
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfo.cs
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.dll
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\refint\Exercicio03.dll
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.pdb
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\Exercicio03.genruntimeconfig.cache
+C:\workspace\cSharp\Algoritmos\ExerciciosResolvidos\Exercicio03\Exercicio03\Exercicio03\obj\Debug\net6.0\ref\Exercicio03.dll

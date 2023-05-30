@@ -1,0 +1,15 @@
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\bin\Debug\net6.0\Ex1015.exe
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\bin\Debug\net6.0\Ex1015.deps.json
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\bin\Debug\net6.0\Ex1015.runtimeconfig.json
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\bin\Debug\net6.0\Ex1015.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\bin\Debug\net6.0\Ex1015.pdb
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.csproj.AssemblyReference.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.AssemblyInfoInputs.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.AssemblyInfo.cs
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\refint\Ex1015.dll
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.pdb
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\Ex1015.genruntimeconfig.cache
+C:\workspace\cSharp\Algoritmos\UriOnlineJudge\Ex1015\Ex1015\Ex1015\obj\Debug\net6.0\ref\Ex1015.dll

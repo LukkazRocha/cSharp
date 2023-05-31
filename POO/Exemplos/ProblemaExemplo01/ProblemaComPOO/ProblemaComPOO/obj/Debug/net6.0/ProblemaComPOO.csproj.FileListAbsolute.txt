@@ -1,0 +1,15 @@
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\bin\Debug\net6.0\ProblemaComPOO.exe
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\bin\Debug\net6.0\ProblemaComPOO.deps.json
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\bin\Debug\net6.0\ProblemaComPOO.runtimeconfig.json
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\bin\Debug\net6.0\ProblemaComPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\bin\Debug\net6.0\ProblemaComPOO.pdb
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.csproj.AssemblyReference.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.AssemblyInfoInputs.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.AssemblyInfo.cs
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\refint\ProblemaComPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.pdb
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ProblemaComPOO.genruntimeconfig.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaExemplo01\ProblemaComPOO\ProblemaComPOO\obj\Debug\net6.0\ref\ProblemaComPOO.dll

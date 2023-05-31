@@ -1,0 +1,15 @@
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\bin\Debug\net6.0\ProblemaSemPOO.exe
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\bin\Debug\net6.0\ProblemaSemPOO.deps.json
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\bin\Debug\net6.0\ProblemaSemPOO.runtimeconfig.json
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\bin\Debug\net6.0\ProblemaSemPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\bin\Debug\net6.0\ProblemaSemPOO.pdb
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.csproj.AssemblyReference.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.AssemblyInfoInputs.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.AssemblyInfo.cs
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\refint\ProblemaSemPOO.dll
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.pdb
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ProblemaSemPOO.genruntimeconfig.cache
+C:\workspace\cSharp\POO\Exemplos\ProblemaSemPOO\ProblemaSemPOO\obj\Debug\net6.0\ref\ProblemaSemPOO.dll

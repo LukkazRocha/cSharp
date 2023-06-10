@@ -18,6 +18,11 @@ namespace ProblemaExemplo02
             Quantidade += quantidade;
         }
 
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
+
         public override string ToString()
         {
             return Nome

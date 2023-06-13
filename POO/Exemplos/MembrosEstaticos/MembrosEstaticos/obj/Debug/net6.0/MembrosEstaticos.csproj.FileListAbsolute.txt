@@ -1,0 +1,15 @@
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.exe
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.deps.json
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.runtimeconfig.json
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.dll
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.pdb
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfo.cs
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.dll
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\refint\MembrosEstaticos.dll
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.pdb
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.genruntimeconfig.cache
+C:\workspace\cSharp\POO\Exemplos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\ref\MembrosEstaticos.dll

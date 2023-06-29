@@ -10,15 +10,14 @@
         "projectUniqueName": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\Properties.csproj",
         "projectName": "Properties",
         "projectPath": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\Properties.csproj",
-        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\devze\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devze\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

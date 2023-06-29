@@ -1,0 +1,15 @@
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\bin\Debug\net6.0\Properties.exe
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\bin\Debug\net6.0\Properties.dll
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.dll
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\workspace\cSharp\POO\Exemplos\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll

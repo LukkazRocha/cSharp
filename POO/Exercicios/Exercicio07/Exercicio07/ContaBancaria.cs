@@ -8,7 +8,7 @@ namespace Exercicio07
 
         public string Titular { get; set; }
 
-        public double Saldo { get; set; }
+        public double Saldo { get; private set; }
 
         public ContaBancaria(int numero, string titular)
         {
@@ -26,7 +26,7 @@ namespace Exercicio07
             Saldo += quantia;
         }
 
-        public void Sacar(double quantia)
+        public void Saque(double quantia)
         {
             Saldo -= quantia + 5.0;
         }

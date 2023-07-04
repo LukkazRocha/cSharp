@@ -10,14 +10,15 @@
         "projectUniqueName": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\Properties.csproj",
         "projectName": "Properties",
         "projectPath": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\Properties.csproj",
-        "packagesPath": "C:\\Users\\devze\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\cSharp\\POO\\Exemplos\\Properties\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\devze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,17 +51,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

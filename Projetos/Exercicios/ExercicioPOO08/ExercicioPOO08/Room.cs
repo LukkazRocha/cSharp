@@ -5,7 +5,7 @@
         public string Email { get; set; }
         public int RoomNumber { get; set; }
 
-        private readonly string name;
+        private readonly string nome;
 
         public Room(string name, string email, int roomNumber) {
             Name = name;
